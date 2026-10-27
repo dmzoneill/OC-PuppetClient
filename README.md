@@ -1,5 +1,9 @@
 # OC-PuppetClient
 
+<p align="center">
+  <img src=".github/logo.png" alt="OC-PuppetClient logo" width="128" />
+</p>
+
 Bootstrap scripts that install and configure the Puppet agent on Linux
 and Windows machines.
 
